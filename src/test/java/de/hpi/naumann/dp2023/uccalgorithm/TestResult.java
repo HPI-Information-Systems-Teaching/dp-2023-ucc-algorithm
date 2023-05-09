@@ -1,4 +1,4 @@
-package de.hpi.naumann.dp2020.uccalgorithm;
+package de.hpi.naumann.dp2023.uccalgorithm;
 
 import java.util.Set;
 
