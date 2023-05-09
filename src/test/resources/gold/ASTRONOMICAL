@@ -1,0 +1,14 @@
+# TABLES
+WDC_astronomical.csv	1
+# COLUMN
+1.Name	1
+1.Symbol	3
+1.IAU abbreviation	2
+1.Unicode display	5
+1.Unicode codepoint	4
+1.Represents	6
+# RESULTS
+3
+4
+5
+6

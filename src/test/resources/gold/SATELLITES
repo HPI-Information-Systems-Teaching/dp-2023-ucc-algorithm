@@ -1,0 +1,16 @@
+# TABLES
+WDC_satellites.csv	1
+# COLUMN
+1.Name	2
+1.Mean radius (km)	3
+1.Sidereal period (d) (r = retrograde)	4
+1.Discovered by	6
+1.Notes	7
+1.Numeral	1
+1.Discovery year	5
+1.Planet	8
+# RESULTS
+2
+1,4
+3,4
+6,4

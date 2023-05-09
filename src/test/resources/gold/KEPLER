@@ -1,0 +1,12 @@
+# TABLES
+WDC_kepler.csv	1
+# COLUMN
+1.Radius of Orbit Relative to that of Earth&#39;s	2
+1.Orbital Velocity Relative to That of Earth&#39;s	4
+1.Planet	1
+1.Length of Year Relative to Earth&#39;s Year	3
+# RESULTS
+1
+2
+3
+4

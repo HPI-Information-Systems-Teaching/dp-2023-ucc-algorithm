@@ -1,0 +1,21 @@
+# TABLES
+WDC_planets.csv	1
+# COLUMN
+1.Orbital_period	6
+1.Name	1
+1.Rings	9
+1.Atmosphere	10
+1.Confirmed_moons	8
+1.Equatorial_diameter	3
+1.Type	2
+1.Orbital_radius	5
+1.Mass	4
+1.Rotation_period	7
+# RESULTS
+1
+3
+4
+5
+6
+7
+10,8

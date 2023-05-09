@@ -1,0 +1,21 @@
+# TABLES
+WDC_astrology.csv	1
+# COLUMN
+1.Exaltation	5
+1.Sign	1
+1.Domicile	3
+1.House	2
+1.Detriment	4
+1.Fall	6
+1.Planetary Joy	7
+# RESULTS
+1
+2
+4,3
+3,5
+3,6
+4,5
+4,6
+4,7
+5,7
+6,7
