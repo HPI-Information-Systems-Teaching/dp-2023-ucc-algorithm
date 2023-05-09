@@ -21,7 +21,7 @@ public class MyUccAlgorithmMetanome extends MyUccAlgorithm
 
 	@Override
 	public String getAuthors() {
-		return "DP2020 students";
+		return "DP2023 students";
 	}
 
 	@Override
